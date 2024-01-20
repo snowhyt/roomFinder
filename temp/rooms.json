@@ -1,0 +1,94 @@
+[{
+
+    "name":"Room Basic",
+    "imageurls": [
+        "https://scontent.fmnl4-1.fna.fbcdn.net/v/t1.6435-9/54254921_2225551827774059_3380980869383585792_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=dd63ad&_nc_eui2=AeHYKTSW7YA8-K_Dn6ON1EmT1L7j-7EksR3UvuP7sSSxHXHnLy9EBbIGo8YKF0dCxo1p_xzUYkWjbYKiDGlhGSyW&_nc_ohc=WSZWCo3fiMAAX_nMOZ3&_nc_ht=scontent.fmnl4-1.fna&oh=00_AfBGAMpNSIPf7cUTT9wm1IYkMEJ5uGDJLJXWk-bJZf3Pdw&oe=659745ED",
+        "https://1.bp.blogspot.com/-iO24QQt7S5A/X1q-ygbDMVI/AAAAAAAAe8Y/O5tCdcE3MnY6Lcz2FlvMfm3jJZy-SLU9ACLcBGAsYHQ/s960/B34992A7-9AB5-4011-95D4-59899BA27A2E.jpeg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/4c/51/dc/filename-3aps8597-1-jpg.jpg?w=700&h=-1&s=1"
+    ],
+    "renttype" : "short-stay",
+    "rentperday":280,
+    "type": "Non-garage",
+    "maxcount": 2,
+    "phonenumber": 9345678901,
+    "currentbookings":[
+
+    ],
+    "description":"Hotel South Red Palm Room Basic Non-garage short-stay(3 hrs)."
+},
+{
+
+    "name":"Room Basic",
+    "imageurls": [
+        "https://scontent.fmnl4-1.fna.fbcdn.net/v/t1.6435-9/54254921_2225551827774059_3380980869383585792_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=dd63ad&_nc_eui2=AeHYKTSW7YA8-K_Dn6ON1EmT1L7j-7EksR3UvuP7sSSxHXHnLy9EBbIGo8YKF0dCxo1p_xzUYkWjbYKiDGlhGSyW&_nc_ohc=WSZWCo3fiMAAX_nMOZ3&_nc_ht=scontent.fmnl4-1.fna&oh=00_AfBGAMpNSIPf7cUTT9wm1IYkMEJ5uGDJLJXWk-bJZf3Pdw&oe=659745ED",
+        "https://1.bp.blogspot.com/-iO24QQt7S5A/X1q-ygbDMVI/AAAAAAAAe8Y/O5tCdcE3MnY6Lcz2FlvMfm3jJZy-SLU9ACLcBGAsYHQ/s960/B34992A7-9AB5-4011-95D4-59899BA27A2E.jpeg",
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/4c/51/dc/filename-3aps8597-1-jpg.jpg?w=700&h=-1&s=1"
+    ],
+    "renttype" : "short-stay",
+    "rentperday":450,
+    "type": "Garage",
+    "maxcount": 2,
+    "phonenumber": 9345678901,
+    "currentbookings":[
+
+    ],
+    "description":"Hotel South Red Palm Room Basic with Garage short-stay(3 hrs)."
+},
+{
+
+    "name":"Room Basic ",
+    "imageurls": [
+        "https://scontent.fmnl4-4.fna.fbcdn.net/v/t1.6435-9/54524218_2225552167774025_168113231942909952_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=dd63ad&_nc_eui2=AeEr_-BUpF-k9RWyO6cQdSR84XeAXjBO7M3hd4BeME7szZvmv9MaXQu1Su1RWa7rswnaa9FsgvRGaWNhxCorzloa&_nc_ohc=RViteQ5xQLsAX9wRGUR&_nc_oc=AQkgfHS_nGO9RnfUd40837-THPVaVM_lF_aUeh5XHAM_qii73b8VW9uZJyNH-82Nvwk&_nc_ht=scontent.fmnl4-4.fna&oh=00_AfD-dTB1byfbvmRxn5J5JDaJD-5mMLqSGmDc_-QR9peqGQ&oe=65975D1A",
+        "https://scontent.fmnl4-6.fna.fbcdn.net/v/t1.6435-9/54254980_2225552221107353_8771680668615704576_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=dd63ad&_nc_eui2=AeEmEiN6z5xaZfATOr73r3is1f_RXp_RCfvV_9Fen9EJ-6Sd0orEjYmIbM7fZ5vb1NPAMCI7ZFvknP_XwQRZWHcH&_nc_ohc=OAv3nk5spDIAX98cMV_&_nc_ht=scontent.fmnl4-6.fna&oh=00_AfCOBDaM1T2V1OnYqrzn__EgZBraceKwIoPaf6uy7wPSkA&oe=65974D15",
+        "https://scontent.fmnl4-6.fna.fbcdn.net/v/t1.6435-9/54398012_2225552244440684_568705862432980992_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd63ad&_nc_eui2=AeG1Us8jhYtDCxSVE0uBo1IemY94lSRwrz6Zj3iVJHCvPrTEw0ZtUwuNw-tOpJYyaIXMkGsfYMPnUpYh8liGjZIv&_nc_ohc=iLuTpWndTUQAX_r3SjB&_nc_ht=scontent.fmnl4-6.fna&oh=00_AfBjQFFv8r8o5OHqYD-bOhoph-GJZZHld-v7kfLaMWuFLg&oe=659738EF"
+
+    ],
+    "renttype" : "overnight",
+    "rentperday":800,
+    "type": "Non-garage",
+    "maxcount": 5,
+    "phonenumber": 9345678901,
+    "currentbookings":[
+
+    ],
+    "description":"Hotel South Red Palm Room Basic Non-garage overnight(8-12 hrs)."
+},
+{
+
+    "name":"Room Basic",
+    "imageurls": [
+        "https://scontent.fmnl4-4.fna.fbcdn.net/v/t1.6435-9/54524218_2225552167774025_168113231942909952_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=dd63ad&_nc_eui2=AeEr_-BUpF-k9RWyO6cQdSR84XeAXjBO7M3hd4BeME7szZvmv9MaXQu1Su1RWa7rswnaa9FsgvRGaWNhxCorzloa&_nc_ohc=RViteQ5xQLsAX9wRGUR&_nc_oc=AQkgfHS_nGO9RnfUd40837-THPVaVM_lF_aUeh5XHAM_qii73b8VW9uZJyNH-82Nvwk&_nc_ht=scontent.fmnl4-4.fna&oh=00_AfD-dTB1byfbvmRxn5J5JDaJD-5mMLqSGmDc_-QR9peqGQ&oe=65975D1A",
+        "https://scontent.fmnl4-6.fna.fbcdn.net/v/t1.6435-9/54254980_2225552221107353_8771680668615704576_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=dd63ad&_nc_eui2=AeEmEiN6z5xaZfATOr73r3is1f_RXp_RCfvV_9Fen9EJ-6Sd0orEjYmIbM7fZ5vb1NPAMCI7ZFvknP_XwQRZWHcH&_nc_ohc=OAv3nk5spDIAX98cMV_&_nc_ht=scontent.fmnl4-6.fna&oh=00_AfCOBDaM1T2V1OnYqrzn__EgZBraceKwIoPaf6uy7wPSkA&oe=65974D15",
+        "https://scontent.fmnl4-6.fna.fbcdn.net/v/t1.6435-9/54398012_2225552244440684_568705862432980992_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd63ad&_nc_eui2=AeG1Us8jhYtDCxSVE0uBo1IemY94lSRwrz6Zj3iVJHCvPrTEw0ZtUwuNw-tOpJYyaIXMkGsfYMPnUpYh8liGjZIv&_nc_ohc=iLuTpWndTUQAX_r3SjB&_nc_ht=scontent.fmnl4-6.fna&oh=00_AfBjQFFv8r8o5OHqYD-bOhoph-GJZZHld-v7kfLaMWuFLg&oe=659738EF"
+
+    ],
+    "renttype" : "overnight",
+    "rentperday":1000,
+    "type": "Garage",
+    "maxcount": 3,
+    "phonenumber": 9345678901,
+    "currentbookings":[
+
+    ],
+    "description":"Hotel South Red Palm Room Basic Garage overnight(8-12 hrs)."
+},
+{
+
+    "name":"Room Deluxe",
+    "imageurls": [
+        "https://scontent.fmnl4-4.fna.fbcdn.net/v/t1.6435-9/54524218_2225552167774025_168113231942909952_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=dd63ad&_nc_eui2=AeEr_-BUpF-k9RWyO6cQdSR84XeAXjBO7M3hd4BeME7szZvmv9MaXQu1Su1RWa7rswnaa9FsgvRGaWNhxCorzloa&_nc_ohc=RViteQ5xQLsAX9wRGUR&_nc_oc=AQkgfHS_nGO9RnfUd40837-THPVaVM_lF_aUeh5XHAM_qii73b8VW9uZJyNH-82Nvwk&_nc_ht=scontent.fmnl4-4.fna&oh=00_AfD-dTB1byfbvmRxn5J5JDaJD-5mMLqSGmDc_-QR9peqGQ&oe=65975D1A",
+        "https://scontent.fmnl4-6.fna.fbcdn.net/v/t1.6435-9/54254980_2225552221107353_8771680668615704576_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=dd63ad&_nc_eui2=AeEmEiN6z5xaZfATOr73r3is1f_RXp_RCfvV_9Fen9EJ-6Sd0orEjYmIbM7fZ5vb1NPAMCI7ZFvknP_XwQRZWHcH&_nc_ohc=OAv3nk5spDIAX98cMV_&_nc_ht=scontent.fmnl4-6.fna&oh=00_AfCOBDaM1T2V1OnYqrzn__EgZBraceKwIoPaf6uy7wPSkA&oe=65974D15",
+        "https://scontent.fmnl4-6.fna.fbcdn.net/v/t1.6435-9/54398012_2225552244440684_568705862432980992_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=dd63ad&_nc_eui2=AeG1Us8jhYtDCxSVE0uBo1IemY94lSRwrz6Zj3iVJHCvPrTEw0ZtUwuNw-tOpJYyaIXMkGsfYMPnUpYh8liGjZIv&_nc_ohc=iLuTpWndTUQAX_r3SjB&_nc_ht=scontent.fmnl4-6.fna&oh=00_AfBjQFFv8r8o5OHqYD-bOhoph-GJZZHld-v7kfLaMWuFLg&oe=659738EF"
+
+    ],
+    "renttype" : "overnight",
+    "rentperday":1399,
+    "type": "Garage",
+    "maxcount": 5,
+    "phonenumber": 9345678901,
+    "currentbookings":[
+
+    ],
+    "description":"Hotel South Red Palm Room Deluxe consist of two beds and spacious than Basic Garage overnight(8-12 hrs)."
+}
+]

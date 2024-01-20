@@ -1,0 +1,41 @@
+//create react my app npm(global) npx(local) (frontend)
+>> npx create-react-app client
+
+// to run the project
+>> cd client
+>> npm start 
+
+//node.js environment how to set up (backend server)
+>> select the main folder *Sheyrooms*
+>> npm init (enter for all question)
+
+//express js install (backend framework)
+>>npm i express
+>>create entry point named "server.js"
+>> server.js --- const express = require("express");
+
+//run node js server (backend)
+>>node server
+
+//add nodemon package (*automatically restarts the server when saved*)
+>> npm i nodemon
+or
+>> npm install -g nodemon
+
+//run the nodemon package
+>>nodemon server.js (name of the app)
+
+//install mongodb (database)
+>>npm i mongoose
+>>>>create entry point named "db.js"
+>> db.js --- const mongoose = require("mongoose");
+
+//install express router
+>>npm i router
+
+//check api in postman
+
+//set proxy in package json localhost host from 3000 to 5000 (backend is 5000)
+
+//install i react routing dom
+>>npm i react-router-dom axios
